@@ -8,7 +8,7 @@ A classic Snake game implemented in Python.
 4. Run `pip install -r requirements.txt` to install the required dependencies.
 
 ## Usage
-Run `python3 game_app.py` to start the game. Use the arrow keys to control the snake.
+Run `python3 game.py` to start the game. Use the arrow keys to control the snake.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
