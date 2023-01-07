@@ -14,6 +14,6 @@ Run `python3 project.py` to start the game. Use the arrow keys to control the sn
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-Python documentation
-Stack Overflow
-CS50
+- Python documentation
+- Stack Overflow
+- CS50
