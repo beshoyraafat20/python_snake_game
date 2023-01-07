@@ -17,3 +17,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Python documentation
 - Stack Overflow
 - CS50
+
+I love python
